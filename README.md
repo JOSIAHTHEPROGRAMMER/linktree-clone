@@ -1,6 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Linktree Clone
+
+A simple [Linktree](https://linktr.ee/) clone built with **Next.js 15**, **React 19**, and **Tailwind CSS 4**.  
+Visit the live app: [linktree-clone](https://linktree-clone-blush.vercel.app/)
+
+## Features
+
+- Responsive layout styled with Tailwind CSS
+- Displays user avatar, name, social media icons, and custom links
+- Social icons handled dynamically with `react-icons`
+- Favicon and title support
+
+>  Note: The app is **static** — users cannot add/edit links dynamically from the UI.  
+To customize links or profile content, you must manually modify `data/data.json`.
+
+---
+
 
 ## Getting Started
+
+
+### Clone the repo
+```bash
+git clone https://github.com/JOSIAHTHEPROGRAMMER/linktree-clone.git
+cd linktree-clone
+```
+
+### Install dependencies
+```bash
+npm install
+```
+
+### Run locally
+```bash
+npm run dev
+```
+
+
+
+
+
+---
+
+
+
+
+## Next.js Info
+
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 First, run the development server:
 
