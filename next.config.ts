@@ -2,6 +2,9 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   /* config options here */
+  images: {
+    domains: ["x.com", "pbs.twimg.com", "www.trumpstore.com", "www.whitehouse.gov", "instagram.com"], 
+  },
 };
 
 export default nextConfig;

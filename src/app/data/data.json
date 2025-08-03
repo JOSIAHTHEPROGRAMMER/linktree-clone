@@ -1,0 +1,50 @@
+{
+  "name": "realdonaldtrump",
+  "avatar": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_400x400.jpg",
+  "links": [
+    {
+      "title": "Trump Store",
+      "url": "https://www.trumpstore.com/",
+      "image": "https://shorturl.at/dtd0o"
+    },
+    {
+      "title": "White House (Archived)",
+      "url": "https://www.whitehouse.gov/administration/donald-j-trump/",
+      "image": "https://shorturl.at/p099R"
+    },
+    {
+      "title": "Trump Campaign (Official)",
+      "url": "https://www.donaldjtrump.com/",
+      "image": "https://img.icons8.com/color/48/000000/usa.png"
+    },
+    {
+      "title": "Truth Social",
+      "url": "https://truthsocial.com/@realDonaldTrump",
+      "image": "https://truthsocial.com/apple-touch-icon.png"
+    }
+   
+  ],
+  "socials": [
+    {
+      "title": "Instagram",
+      "url": "https://www.instagram.com/realdonaldtrump/",
+      "image": "https://img.icons8.com/color/48/000000/instagram-new.png"
+    },
+    {
+  "title": "X",
+  "url": "https://twitter.com/realdonaldtrump",
+  "image": "https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_400x400.jpg"
+}
+,
+    {
+      "title": "Facebook",
+      "url": "https://www.facebook.com/DonaldTrump/",
+      "image": "https://img.icons8.com/color/48/000000/facebook.png"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/@realDonaldTrump",
+      "image": "https://img.icons8.com/color/48/000000/youtube-play.png"
+    }
+  ]
+}
