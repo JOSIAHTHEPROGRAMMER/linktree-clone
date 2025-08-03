@@ -25,7 +25,7 @@ export default function Home() {
               </h1>
 
                <p className="text-lg sm:text-md text-white/70 mb-4 text-center">
-                MAKE AMERICA GREAT AGAIN <span role="img" aria-label="USA">🇺🇸</span>
+                {data.subText}
                </p>
           </div>
 
